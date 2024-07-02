@@ -31,7 +31,5 @@ Technologies Used
 
 ## Screenshot
 
-- ![Screenshot](https://github.com/B/rn-assignment5-11288689/blob/main/assets/Screenshot_1719331944.png)
-- ![Screenshot](https://github.com/cryptomathematician/rn-assignment5-11288689/blob/main/assets/Screenshot_1719331960.png)
-- ![Screenshot](https://github.com/cryptomathematician/rn-assignment5-11288689/blob/main/assets/Screenshot_1719331966.png)
-- ![Screenshot](https://github.com/cryptomathematician/rn-assignment5-11288689/blob/main/assets/Screenshot_1719331971.png)
+![Screenshot 1](assets/screenshot1.jpg)
+![Sccreenshot 2](assets/screenshot2.jpg)
